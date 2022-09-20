@@ -12,4 +12,4 @@
 
   * Gmail: hmyyqxi@gmail.com
  
-  * Linkedin: [Linkedin Link](www.linkedin.com/in/huimin-chen-nikki)
+  * Linkedin: [www.linkedin.com/in/huimin-chen-nikki]
