@@ -6,10 +6,10 @@
 * Is expected to receive bachelor of science degree by Dec 2022. 
 
  
-* Please check out my Github: [Github Link](https://github.com/Hmmsien)
+* Please check out my Github: https://github.com/Hmmsien
 
 * Stay Connected?
 
   * Gmail: hmyyqxi@gmail.com
  
-  * Linkedin: [www.linkedin.com/in/huimin-chen-nikki]
+  * Linkedin: www.linkedin.com/in/huimin-chen-nikki
