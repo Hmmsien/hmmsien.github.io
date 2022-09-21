@@ -1,5 +1,8 @@
 @import "{{ site.theme }}";
-body {
-font-size: 12px;
+
+header h1 {
+  font-size : 24px;
 }
+
+
 
