@@ -5,6 +5,7 @@
 Currently majoring in Computer Science at Brooklyn College. 
 
 
+/br
 ## PROJECTS
 ### Calculator | github.com/Hmmsien/Calculator		   April 2022
 -	Developed a user-defined calculator struct type in C++ that provides standard calculator functionality to solve the equation the end-user inputs into program.
@@ -15,6 +16,8 @@ Currently majoring in Computer Science at Brooklyn College.
 -	Developed the user interface using Node.js to create a website for helping user discover the specific car information.
 -	Built a backend API using a combination of SQL and JavaScript to enable users to view data that is stored in a database as well as update data.
 
+
+/br
 ## RELEVANT EXPERIENCE
 
 ### CUNY Tech Prep, Data Science Fellow	Jul 2022 – present
